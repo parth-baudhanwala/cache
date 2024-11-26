@@ -5,9 +5,11 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Legacy", "Legacy", "{898A792F-E7D0-4F11-BE64-9F7BE579CBBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeastRecentlyUsed", "Legacy\LeastRecentlyUsed\LeastRecentlyUsed.csproj", "{9D008933-76A6-45A2-99B0-E1120F7EB9EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeastRecentlyUsed", "Legacy\LeastRecentlyUsed\LeastRecentlyUsed.csproj", "{9D008933-76A6-45A2-99B0-E1120F7EB9EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeastFrequentlyUsed", "Legacy\LeastFrequentlyUsed\LeastFrequentlyUsed.csproj", "{C5F2CD26-43C0-42C6-BB2D-7ADB578F15F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeastFrequentlyUsed", "Legacy\LeastFrequentlyUsed\LeastFrequentlyUsed.csproj", "{C5F2CD26-43C0-42C6-BB2D-7ADB578F15F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modern", "Modern", "{4A41B5AE-19DA-496B-8E07-5A9A6CF2772E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
