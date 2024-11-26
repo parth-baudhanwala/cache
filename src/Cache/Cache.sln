@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeastFrequentlyUsed", "Lega
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modern", "Modern", "{4A41B5AE-19DA-496B-8E07-5A9A6CF2772E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cache", "Modern\Cache\Cache.csproj", "{7BA9C690-3932-4143-8A97-7688D09C0010}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{C5F2CD26-43C0-42C6-BB2D-7ADB578F15F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5F2CD26-43C0-42C6-BB2D-7ADB578F15F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5F2CD26-43C0-42C6-BB2D-7ADB578F15F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA9C690-3932-4143-8A97-7688D09C0010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA9C690-3932-4143-8A97-7688D09C0010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA9C690-3932-4143-8A97-7688D09C0010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA9C690-3932-4143-8A97-7688D09C0010}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9D008933-76A6-45A2-99B0-E1120F7EB9EF} = {898A792F-E7D0-4F11-BE64-9F7BE579CBBA}
 		{C5F2CD26-43C0-42C6-BB2D-7ADB578F15F8} = {898A792F-E7D0-4F11-BE64-9F7BE579CBBA}
+		{7BA9C690-3932-4143-8A97-7688D09C0010} = {4A41B5AE-19DA-496B-8E07-5A9A6CF2772E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {233C5CE1-1BC9-4BF1-9682-BD35A3FBF66F}
